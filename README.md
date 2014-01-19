@@ -1,8 +1,8 @@
 ADX2LEMML20140119
 =================
-Doremiは簡単な記述（MML）による多彩な音楽を奏でるサンプルです。
-SoundManagerクラスはADX2LEの最低必要なセットアップのサンプルにもなっています。
-またVisualStudio C++でADX2LEを使う場合のリンク、データの配置などの参考にも良いでしょう。
+Doremiは簡単な記述（MML）による多彩な音楽を奏でるサンプルです。<br>
+SoundManagerクラスはADX2LEの最低必要なセットアップのサンプルにもなっています。<br>
+またVisualStudio C++でADX2LEを使う場合のリンク、データの配置などの参考にも良いでしょう。<br>
 
 -セットアップ
 Doremiを実行するにはADX2LEが必要です。
