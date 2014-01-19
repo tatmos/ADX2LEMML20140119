@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Orca XML File Format -->
+<OrcaTrees OriginalFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi.atmcproj" ObjectTypeExpression="Full" BinaryEncodingType="Base64" FileVersion="3" FileRevision="0">
+  <OrcaTree OrcaName="(no name)">
+    <Orca OrcaName="CRI Atom Craft" OrcaType="CriMw.CriGears.Core.OrcaObject">
+      <Orca OrcaName="Doremi" OoUniqId="717ec8a2-03a4-43a7-81cd-df34b433561a" ProjectFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi.atmcproj" BuildRootPath="../Doremi" VersionInfo="Ver.1.32.00" MaterialRootPath="Materials" RecentProjectPaths="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi.atmcproj,C:/Users/ttanaka/Documents/CriAtomCraft/NoriNoriYusha.atmcproj" CurrentTargetConfig="/CRI Atom Craft/Doremi/全体設定/ターゲットコンフィグ/Public" CurrentPreviewTargetConfig="/CRI Atom Craft/Doremi/全体設定/ターゲットコンフィグ/Public" CurrentLanguageSetting="/CRI Atom Craft/Doremi/全体設定/言語設定/Default" UnityInfoOutputFlag="False" MakeInGameAcbFlag="False" AcbInfoFileOutputFlag="False" AcfOutputFlag="True" PostProcessOutputAcbPath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoProject">
+        <Orca OrcaName="全体設定" OoUniqId="70ebcece-102a-45a7-b1a5-a22fc126bfa4" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoGlobalFolder">
+          <Orca OrcaName="グローバルAISAC" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoGlobalAisacFolder" />
+          <Orca OrcaName="AISACコントロール" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControlFolder">
+            <Orca OrcaName="Any" ControlId="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="Distance" ControlId="1" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl02" ControlId="2" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl03" ControlId="3" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl04" ControlId="4" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl05" ControlId="5" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl06" ControlId="6" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl07" ControlId="7" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl08" ControlId="8" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl09" ControlId="9" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl10" ControlId="10" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl11" ControlId="11" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl12" ControlId="12" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl13" ControlId="13" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl14" ControlId="14" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+            <Orca OrcaName="AisacControl15" ControlId="15" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoAisacControl" />
+          </Orca>
+          <Orca OrcaName="ターゲットコンフィグ" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoTargetConfigFolder">
+            <Orca OrcaName="Public" EncodeType="HCA" HcaQuality="HiQuality" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoTargetConfigPublic" />
+          </Orca>
+          <Orca OrcaName="言語設定" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSettingFolder">
+            <Orca OrcaName="Default" ReplaceFolderName="" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSetting" />
+            <Orca OrcaName="English" ReplaceFolderName="en" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSetting" />
+            <Orca OrcaName="French" ReplaceFolderName="fr" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSetting" />
+            <Orca OrcaName="German" ReplaceFolderName="de" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSetting" />
+            <Orca OrcaName="Japanese" ReplaceFolderName="ja" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSetting" />
+            <Orca OrcaName="Korean" ReplaceFolderName="ko" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSetting" />
+            <Orca OrcaName="Spanish" ReplaceFolderName="es" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSetting" />
+            <Orca OrcaName="Italian" ReplaceFolderName="it" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoLanguageSetting" />
+          </Orca>
+          <Orca OrcaName="カテゴリ" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCategoryFolder">
+            <Orca OrcaName="CategoryGroup_0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCategoryGroup">
+              <Orca OrcaName="Category_0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCategory" />
+            </Orca>
+          </Orca>
+          <Orca OrcaName="REACT" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoReactFolder" />
+          <Orca OrcaName="ボイスリミットグループ" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoVoiceLimitGroupFolder">
+            <Orca OrcaName="VoiceLimitGroup_0" VoiceLimitNum="1" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoVoiceLimitGroup" />
+          </Orca>
+          <Orca OrcaName="ゲーム変数" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoGameVariableFolder">
+            <Orca OrcaName="Default" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoGameVariable" />
+          </Orca>
+          <Orca OrcaName="DSPバス設定" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspSettingFolder">
+            <Orca OrcaName="DspBusSetting_0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspSetting">
+              <Orca OrcaName="BUS0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBus" />
+              <Orca OrcaName="BUS1" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBus">
+                <Orca OrcaName="BusSendToBUS0" BusSend="/CRI Atom Craft/Doremi/全体設定/DSPバス設定/DspBusSetting_0/BUS0" BusSendType="PostPan" BusSendLevel="1" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBusLink" />
+                <Orca OrcaName="Reverb" ConfigMaxRoomSize="50" RoomSize="10" ConfigMaxPreDelay="1000" PreDelay="20" ReverbTime="2000" CofLow="0" CofHi="8000" ConfigMode="Surround" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspFxReverb" />
+              </Orca>
+              <Orca OrcaName="BUS2" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBus" />
+              <Orca OrcaName="BUS3" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBus" />
+              <Orca OrcaName="BUS4" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBus" />
+              <Orca OrcaName="BUS5" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBus" />
+              <Orca OrcaName="BUS6" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBus" />
+              <Orca OrcaName="BUS7" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoDspBus" />
+            </Orca>
+          </Orca>
+          <Orca OrcaName="ブックマーク" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoBookMarkFolder" />
+        </Orca>
+        <Orca OrcaName="ユーザ" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoUserFolder">
+          <Orca OrcaName="マテリアルルートフォルダ" LoopInterpretation="UseAllMarkers" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveformFolder">
+            <Orca OrcaName="noise.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/noise.wav" SourceFileSize="88466" Channels="1" SamplingRate="44100" SampleFrames="44101" LoopType="Loop" LoopEnd="44101" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_noise_Enc_44100lp0-44101HCAHighest_Public_5d4e998019c967558388bed9ce31ce05.hca" EncodeFileSize="24576" LastLoadSrcFileTimeStamp="2014/01/18 10:07:58" WaveImageCacheWriteTime="2014/01/18 10:07:58" ResamplingRate="44100" ReloopEnd="44101" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="orchehit.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/orchehit.wav" SourceFileSize="43344" Channels="1" SamplingRate="44100" SampleFrames="21612" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_orchehit_Enc_44100HCAHighest_Public_ce72bcce1f31dab41b9c9cab77b5d0a9.hca" EncodeFileSize="11360" AwbId="1" LastLoadSrcFileTimeStamp="2014/01/18 10:07:58" WaveImageCacheWriteTime="2014/01/18 10:07:58" ResamplingRate="44100" ReloopEnd="21612" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="p25.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/p25.wav" SourceFileSize="43832" Channels="1" SamplingRate="44100" SampleFrames="21708" LoopType="Loop" LoopStart="92" LoopEnd="21641" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_p25_Enc_44100lp92-21641HCAHighest_Public_99d38e3e46c60765bcdb9692792749f3.hca" EncodeFileSize="13312" AwbId="2" LastLoadSrcFileTimeStamp="2014/01/18 10:07:58" WaveImageCacheWriteTime="2014/01/18 10:07:58" ResamplingRate="44100" ReloopEnd="21708" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="p125.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/p125.wav" SourceFileSize="45132" Channels="1" SamplingRate="44100" SampleFrames="22244" LoopType="Loop" LoopStart="194" LoopEnd="22244" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_p125_Enc_44100lp194-22244HCAHighest_Public_799ea61bc53872d80956d4d1e30d24d9.hca" EncodeFileSize="13312" AwbId="3" LastLoadSrcFileTimeStamp="2014/01/18 10:07:58" WaveImageCacheWriteTime="2014/01/18 10:07:58" ResamplingRate="44100" ReloopEnd="22244" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="piano.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/piano.wav" SourceFileSize="104432" Channels="1" SamplingRate="44100" SampleFrames="52096" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_piano_Enc_44100HCAHighest_Public_88776faf0540bcc301e2a0acbed3b734.hca" EncodeFileSize="26208" AwbId="4" LastLoadSrcFileTimeStamp="2014/01/18 10:07:57" WaveImageCacheWriteTime="2014/01/18 10:07:57" ResamplingRate="44100" ReloopEnd="52096" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="saw.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/saw.wav" SourceFileSize="88542" Channels="1" SamplingRate="44100" SampleFrames="44101" LoopType="Loop" LoopStart="101" LoopEnd="44100" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_saw_Enc_44100lp101-44100HCAHighest_Public_e26feb758fae69b2d2fa156c136ddddf.hca" EncodeFileSize="24576" AwbId="5" LastLoadSrcFileTimeStamp="2014/01/18 10:07:57" WaveImageCacheWriteTime="2014/01/18 10:07:57" ResamplingRate="44100" ReloopEnd="44101" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="sq.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/sq.wav" SourceFileSize="88542" Channels="1" SamplingRate="44100" SampleFrames="44101" LoopType="Loop" LoopStart="102" LoopEnd="44101" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_sq_Enc_44100lp102-44101HCAHighest_Public_8f6a8120381f8ddae6ee7cc8d0bc52af.hca" EncodeFileSize="24576" AwbId="6" LastLoadSrcFileTimeStamp="2014/01/18 10:07:57" WaveImageCacheWriteTime="2014/01/18 10:07:57" ResamplingRate="44100" ReloopEnd="44101" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="strings.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/strings.wav" SourceFileSize="101184" Channels="1" SamplingRate="44100" SampleFrames="50232" LoopType="Loop" LoopStart="22173" LoopEnd="49537" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_strings_Enc_44100lp22173-49537HCAHighest_Public_d7b768e3e7427f7461933e8684d21132.hca" EncodeFileSize="26624" AwbId="7" LastLoadSrcFileTimeStamp="2014/01/18 10:07:57" WaveImageCacheWriteTime="2014/01/18 10:07:57" ResamplingRate="44100" ReloopEnd="50232" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="trance.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/trance.wav" SourceFileSize="81484" Channels="1" SamplingRate="44100" SampleFrames="40610" LoopType="Loop" LoopStart="4601" LoopEnd="40376" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_trance_Enc_44100lp4601-40376HCAHighest_Public_738a1ff7a5609b25b62c3562a247310d.hca" EncodeFileSize="22528" AwbId="8" LastLoadSrcFileTimeStamp="2014/01/18 10:07:57" WaveImageCacheWriteTime="2014/01/18 10:07:57" ResamplingRate="44100" ReloopEnd="40610" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+            <Orca OrcaName="tri.wav" SrcFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Materials/tri.wav" SourceFileSize="44024" Channels="1" SamplingRate="44100" SampleFrames="21842" LoopType="Loop" LoopStart="91" LoopEnd="21841" EncodeFilePath="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/_tri_Enc_44100lp91-21841HCAHighest_Public_7131950089c51c5759091ceec0978a5f.hca" EncodeFileSize="13312" AwbId="9" LastLoadSrcFileTimeStamp="2014/01/18 10:07:58" WaveImageCacheWriteTime="2014/01/18 10:07:58" ResamplingRate="44100" ReloopEnd="21842" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform" />
+          </Orca>
+          <Orca OrcaName="リファレンス" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoReferenceFolder">
+            <Orca OrcaName="AISAC" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoReferenceAisacFolder" />
+          </Orca>
+          <Orca OrcaName="キューシートフォルダ" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSheetFolder">
+            <Orca OrcaName="CueSheet_0" OoUniqId="cfd874a7-9363-4754-9910-190d5eb7d682" AcbOutputDirectory="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/Doremi" AwbOutputDirectory="C:/Users/ttanaka/Documents/Visual Studio 2013/Projects/DoremiCraftWork/Doremi_Cache/Public/CueSheet_0/CueSheet_0.awbTmp" AcfMd5hash="0CNns4oIEmwmsSNGxJT7gQ==" LastOutputCueSheetSize="203360" CueSheetPaddingSize="2048" Expand="True" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSheet">
+              <Orca OrcaName="noise" CueID="0" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_noise" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="noise.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/noise.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="orchehit" CueID="1" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_orchehit" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="orchehit.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/orchehit.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="p25" CueID="2" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_p25" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="p25.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/p25.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="p125" CueID="3" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_p125" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="p125.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/p125.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="piano" CueID="4" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_piano" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="piano.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/piano.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="saw" CueID="5" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_saw" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="saw.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/saw.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="sq" CueID="6" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_sq" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="sq.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/sq.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="strings" CueID="7" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_strings" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="strings.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/strings.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="trance" CueID="8" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_trance" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="trance.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/trance.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+              <Orca OrcaName="tri" CueID="9" SynthType="SynthPolyphonic" DisplayUnit="Frame5994" BusSend1="0" BusSend2="0" BusSend3="0" BusSend4="0" BusSend5="0" BusSend6="0" BusSend7="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                <Orca OrcaName="Track_tri" SynthType="Track" ObjectColor="200, 30, 100, 180" Pan3dSendCenter="0" Pan3dSendLFE="0" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth">
+                  <Orca OrcaName="tri.wav" LinkWaveform="/CRI Atom Craft/Doremi/ユーザ/マテリアルルートフォルダ/tri.wav" SynthType="Waveform" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoCueSynth" />
+                </Orca>
+              </Orca>
+            </Orca>
+          </Orca>
+        </Orca>
+      </Orca>
+    </Orca>
+  </OrcaTree>
+</OrcaTrees>
+<!-- Copyright (c) CRI Middleware Co.,LTD. -->
+<!-- end of document -->
