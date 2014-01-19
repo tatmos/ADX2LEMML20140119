@@ -7,7 +7,7 @@ Doremiフォルダ、DoremiCraftWorkフォルダと同じ階層に
 criフォルダをコピーしてください。
 
 
-\cri
-\Doremi
-\DoremiCraftWork
+\cri<br>
+\Doremi<br>
+\DoremiCraftWork<br>
 
