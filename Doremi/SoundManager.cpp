@@ -248,7 +248,7 @@ void SoundManager::Play(string &mml)
 					criAtomExPlayer_Stop(player);
 				}
 
-				float pitch = (float)((((*it).octNo - 4) * 12) + (*it).noteNo) * 100 + 400;
+				float pitch = (float)((((*it).octNo - 4) * 12) + (*it).noteNo) * 100 + 300;
 				cout << pitch << " ";
 				criAtomExPlayer_SetPitch(player, pitch);
 				if (andFlag == false){
