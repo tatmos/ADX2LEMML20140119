@@ -17,3 +17,5 @@ criフォルダをコピーしてください。
 
 -実行サンプル
 動画:http://t.co/xVntOwetYU
+
+This software is released under the MIT License, see LICENSE.txt.
